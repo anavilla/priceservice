@@ -1,0 +1,9 @@
+com/priceservice/repository/PriceRepository.class
+com/priceservice/config/SwaggerConfig.class
+com/priceservice/model/dto/ApplicablePrice.class
+com/priceservice/rest/PricesRestController.class
+com/priceservice/exceptions/ApiError.class
+com/priceservice/exceptions/CustomExceptionHandler.class
+com/priceservice/PriceserviceApplication.class
+com/priceservice/service/PricesService.class
+com/priceservice/model/entity/Price.class

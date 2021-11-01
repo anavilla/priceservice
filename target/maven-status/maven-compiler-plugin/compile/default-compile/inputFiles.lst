@@ -1,0 +1,9 @@
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/config/SwaggerConfig.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/exceptions/ApiError.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/model/dto/ApplicablePrice.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/PriceserviceApplication.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/exceptions/CustomExceptionHandler.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/rest/PricesRestController.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/repository/PriceRepository.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/service/PricesService.java
+/Users/anavillacaballero/code/corunet/priceservice/src/main/java/com/priceservice/model/entity/Price.java
