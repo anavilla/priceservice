@@ -12,7 +12,7 @@
 	<artifactId>priceservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>priceservice</name>
-	<description>Demo project for Spring Boot</description>
+	<description>PriceService example in Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
